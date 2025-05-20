@@ -19,5 +19,5 @@ import (
 )
 
 func main() {
-	fmt.Println("testing cloud build trigger")
+	fmt.Println("iter2 testing cloud build trigger")
 }
